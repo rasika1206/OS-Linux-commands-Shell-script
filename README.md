@@ -80,12 +80,12 @@ comm file1 file2
 diff file1 file2
 
 
-##OUTPUT
+## OUTPUT
 ![303980022-6f0df5d6-6dc0-473f-8764-8f8788dc1423](https://github.com/23004513/OS-Linux-commands-Shell-script/assets/138973069/dd5d576c-fdad-4142-8a42-957143d516bb)
 
 
 
-#Filters
+# Filters
 
 ### Create the following files file11, file22 as follows:
 
